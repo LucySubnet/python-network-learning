@@ -1,0 +1,9 @@
+device_name = input("Enter the device name: ")
+ip = input("Enter the device IP: ")
+vlan = int(input("Enter the VLAN number: "))
+
+print("\n--- DEVICE INFORMATION ---")
+print(f"Name: {device_name}")
+print(f"IP: {ip}")
+print(f"VLAN No.: {vlan}")
+print("The device has been added to the database.")
