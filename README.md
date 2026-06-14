@@ -1,6 +1,3 @@
-# python-network-learning
-Learning Python for Network Automation | From zero to network scripts :)
-
 # Python for Network Automation
 
 I'm on a structured learning journey to become a **Network Automation Engineer**.  
